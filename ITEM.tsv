@@ -1,43 +1,43 @@
-﻿ITEM_20150317_000001	Empty_helmet
-ITEM_20150317_000002	Murmillo Helmet
-ITEM_20150317_000003	Empty_armband
-ITEM_20150317_000004	Red Armband
-ITEM_20150317_000005	Armband
-ITEM_20150317_000006	Knotted Armband
-ITEM_20150317_000007	Long Armband
-ITEM_20150317_000008	Feather Armband
-ITEM_20150317_000009	Tasseled Armband
-ITEM_20150317_000010	Empty_weapon
+ITEM_20150317_000001	Casco_vacio (Empty_helmet)*
+ITEM_20150317_000002	Casco de Murmillo
+ITEM_20150317_000003	Brazalete_vacio (Empty_armband)*
+ITEM_20150317_000004	Brazalete Rojo
+ITEM_20150317_000005	Brazalete
+ITEM_20150317_000006	Brazalete Anudado
+ITEM_20150317_000007	Brazalete Largo
+ITEM_20150317_000008	Brazalete de Plumas
+ITEM_20150317_000009	Brazalete de Borlas
+ITEM_20150317_000010	Arma_vacio (Empty_weapon)*
 ITEM_20150317_000011	
-ITEM_20150317_000012	One-Handed Sword [Slash]
-ITEM_20150317_000013	A weapon that is commonly used and carried by soldiers of the kingdom.
+ITEM_20150317_000012	Espada de una Mano[Corte]
+ITEM_20150317_000013	Un arma que es comunmente llevada y usada por los soldados del reino. 
 ITEM_20150317_000014	Gladius
-ITEM_20150317_000015	This weapon is crafted with room for improvement over its military version.
+ITEM_20150317_000015	Esta arma es creada con espacio para mejoras sobre su version militar
 ITEM_20150317_000016	
-ITEM_20150317_000017	This sword is exceptional for slashing.
+ITEM_20150317_000017	Esta espada es excepcional para cortar.
 ITEM_20150317_000018	
-ITEM_20150317_000019	Due to its ease in manufacturing, this sword is frequently chosen by adventurers as their first replacement for their training sword.
+ITEM_20150317_000019 	Debido a la facilidad para crearla, esta espada es elegida frecuentemente por aventureros como el primer reemplazo de su espada de entrenamiento.
 ITEM_20150317_000020	Cinquedea
-ITEM_20150317_000021	Recommended for those who desire a heavier and stronger sword.
+ITEM_20150317_000021	Recomendada para aquellos que deseen una espada mas fuerte y pesada.
 ITEM_20150317_000022	Sabre
-ITEM_20150317_000023	Primary weapon of the cavalry optimized for slashing. The Hilt also protects your hands.
+ITEM_20150317_000023	Arma principal de la caballeria, optimizada para cortar. La empuñadura tambien porteje tus manos.
 ITEM_20150317_000024	Shamshir
-ITEM_20150317_000025	The large curved crescent edge allows for a powerful slash.
+ITEM_20150317_000025	El filo largo y creciente permite un corte podersoro.
 ITEM_20150317_000026	Scimitar
-ITEM_20150317_000027	Its heavy weight is compensated by a very powerful slash.
+ITEM_20150317_000027	Su gran peso es compensado con un corte muy poderoso.
 ITEM_20150317_000028	Kris
-ITEM_20150317_000029	Both practical and decorative, its curved edge amplifies the damage it inflicts.
+ITEM_20150317_000029	Tanto practicomo como decorativo, su filo curvo amplifica el daño que inflinge.
 ITEM_20150317_000030	Snickersnee
-ITEM_20150317_000031	Its extremely sharp blade makes it a favorite even among the most experienced swordsmen.
+ITEM_20150317_000031	Su hoja extremadamente afilada lo hace un favorito inclusio entre los espadachines mas experimentados.
 ITEM_20150317_000032	
 ITEM_20150317_000033	
-ITEM_20150317_000034	Soldier's Gladius
-ITEM_20150317_000035	Basic armament provided to full-time soldiers. Its overall quality is better than the ones sold in the market.
-ITEM_20150317_000036	Mayor's Falchion
-ITEM_20150317_000037	Looking at this weapon raises suspicions on the previous owner's past.
+ITEM_20150317_000034	Gladius del Soldado
+ITEM_20150317_000035	Armamento basico provisto a los soldados de tiempo completo. Su calida en general es mejor que las vendidas en el mercado.
+ITEM_20150317_000036	Falchion del Mayor
+ITEM_20150317_000037	Mirando a esta arma se sospecha sobre el pasado del dueño anterior.
 ITEM_20150317_000038	
 ITEM_20150317_000039	Moplah
-ITEM_20150317_000040	This sword combines both practicality and aesthetics.
+ITEM_20150317_000040	Esta espada combina tanto estetica como sentido practico.
 ITEM_20150317_000041	
 ITEM_20150317_000042	Falchion
 ITEM_20150317_000043	
@@ -60,24 +60,24 @@ ITEM_20150317_000059	Firangi
 ITEM_20150317_000060	Thorn Cutter
 ITEM_20150317_000061	Demion Sword
 ITEM_20150317_000062	Master Sword
-ITEM_20150317_000063	Panto Sword
-ITEM_20150317_000064	Sword used by the Panto. A better Panto Sword can be made if you craft it yourself.
-ITEM_20150317_000065	Flonas Sabre
-ITEM_20150317_000066	Some say this weapon unleashes the grudge that plants hold against animals.
-ITEM_20150317_000067	Golden Falchion
-ITEM_20150317_000068	Possibly due to gold's correlation with fortune, the Golden Falchion bestows its wielder with good luck during battle, resulting in severe damage and misfortune to their foes.
-ITEM_20150317_000069	Steel Falchion
-ITEM_20150317_000070	The Steel Falchion is a good choice for those pursuing precision in their swordsmanship.
-ITEM_20150317_000071	Silver Falchion
-ITEM_20150317_000072	Its light weight and sturdiness allows you to unleash your potential during an attack.
+ITEM_20150317_000063	Panto Sword ***
+ITEM_20150317_000064	Espada usada por el Panto. Una mejor Panto Sword puede hacerse si es creada por ti mismo. 
+ITEM_20150317_000065	Flonas Sabre ***
+ITEM_20150317_000066	Algunos dicen que esta arma desata el rencor que las plantas tienen en contra de los animales.
+ITEM_20150317_000067	Golden Falchion ***
+ITEM_20150317_000068	Posiblemente debido a la relacion del oro con la fortuna, el Golden Falchion brinda a su usuario buena suerte durante la batalla, resultando en severos daños y desgracia para sus enemigos.
+ITEM_20150317_000069	Steel Falchion ***
+ITEM_20150317_000070	El Steel Falchion es una buena opcion para aquellos que requieren de precision en su manejo con la espada.
+ITEM_20150317_000071	Silver Falchion ***
+ITEM_20150317_000072	Su peso liviano y firmeza permiten desatar tu potencial durante el ataque.
 ITEM_20150317_000073	Mandrapick
-ITEM_20150317_000074	This sword is said to clear its wielder's mind with its Mandragora essence.
-ITEM_20150317_000075	Wizard Blade
-ITEM_20150317_000076	You should never underestimate a sword wielding wizard, especially if that sword is the Wizard Blade.
+ITEM_20150317_000074	Se dice que esta espada limpia la mente del usuario con su escencia de Mandragora.
+ITEM_20150317_000075	Wizard Blade ***
+ITEM_20150317_000076	Nunca debes subestmar un mago empuñando una espada, especialmente si esa espada es el Wizard Blade. 
 ITEM_20150317_000077	Cheminis Sword
-ITEM_20150317_000078	This sword is made from a recipe developed by an alchemist from the Winterspoon family, who claimed that he could make a better sword than a blacksmith.
+ITEM_20150317_000078	Esta espada esta hecha de una receta desarrollada por un alquimista de la familia Winterspoon, quien aclamaba poder crear mejores espadas que un herrero.
 ITEM_20150317_000079	Austas
-ITEM_20150317_000080	This sword is worthy of its steep price. However, merchants would prefer that you return to buy other weapons than continue using it for a long time.
+ITEM_20150317_000080	Esta espada vale su alto precio. Sin embargo, los mercaderes prefieren que vuelvas a comprar otras armas antes que seguir usandola por mucho tiempo.
 ITEM_20150317_000081	Miskas Sabre
 ITEM_20150317_000082	This weapon will make your swordsmanship swifter.
 ITEM_20150317_000083	Imperni Sword
